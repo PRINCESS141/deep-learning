@@ -8,7 +8,7 @@ name = input("What is your name? ")
 print("Good Luck ! ", name) 
 
 words = ['rainbow', 'computer', 'science', 'programming', 
-		'python', 'mathematics', 'player', 'condition', 
+		'python', 'mathematics', 'player','mounika','railway', 'condition', 
 		'reverse', 'water', 'board', 'geeks'] 
 
 # Function will choose one random 
